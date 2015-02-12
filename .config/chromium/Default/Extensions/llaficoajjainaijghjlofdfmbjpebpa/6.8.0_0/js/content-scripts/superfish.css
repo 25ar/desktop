@@ -1,0 +1,36 @@
+.__fvd_sd_superfishContainer{
+	font-size: 9px !important;
+	
+	width: 300px !important;
+}
+
+.__fvd_sd_superfishContainer > *{
+	float: right;
+}
+
+.__fvd_sd_superfishContainer a{
+	color: #003399 !important;
+	font-weight: bold !important;
+	text-shadow: 1px 1px 0px #fff;
+	border: 1px solid #ccc !important;
+	background: #eee !important;
+	border-radius: 2px !important;
+	padding: 3px !important;	
+    box-shadow: 0px 0px 5px 0px yellow; !important	
+	z-index: 999999999999999 !important;
+	font-size: 9px !important;
+	
+	margin-left: 3px !important;
+}
+
+.__fvd_sd_superfishContainer a:hover{
+	color: #cc6702 !important;
+}
+
+
+.__fvd_sd_superfishContainer .__msg{
+	padding: 7px !important;
+	background-color: #eee !important;
+	border: 1px solid #ccc !important;
+	border-radius: 2px !important;
+}

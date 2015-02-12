@@ -1,0 +1,132 @@
+{
+   "app_list": {
+      "app_launch_count": 0,
+      "last_app_launch_ping": "13068172800000000",
+      "last_launch_ping": "13068172800000000",
+      "launch_count": 0
+   },
+   "browser": {
+      "enabled_labs_experiments": [  ],
+      "last_redirect_origin": ""
+   },
+   "data_reduction": {
+      "daily_original_length": [ "832531841", "1736173920", "470123921", "28020102", "549338289", "1045983321", "81958075", "1054386801", "842716777", "448401819", "134104302", "206020005", "35826636", "14574539", "4934728164", "72508736", "278514378", "216166", "54920936", "1357226630", "1091181594", "15539595", "238211441", "0", "45356924", "322966900", "842410235", "839608083", "0", "0", "533412990", "595843640", "4883022", "981927754", "0", "273665750", "334127867", "4727218", "237689441", "463305163", "153534153", "2983559", "13063496", "373856525", "274862695", "1357094350", "486726616", "24951712", "0", "11287135", "0", "0", "0", "9792430", "279679647", "1099413", "36360052", "256080386", "993454208", "356350074" ],
+      "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length": [ "832531841", "1736173920", "470123921", "28020102", "549338289", "1045983321", "81958075", "1054386801", "842716777", "448401819", "134104302", "206020005", "35826636", "14574539", "4934728164", "72508736", "278514378", "216166", "54920936", "1357226630", "1091181594", "15539595", "238211441", "0", "45356924", "322966900", "842410235", "839608083", "0", "0", "533412990", "595843640", "4883022", "981927754", "0", "273665750", "334127867", "4727218", "237689441", "463305163", "153534153", "2983559", "13063496", "373856525", "274862695", "1357094350", "486726616", "24951712", "0", "11287135", "0", "0", "0", "9792430", "279679647", "1099413", "36360052", "256080386", "993454208", "356350074" ],
+      "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "last_update_date": "13068165600000000"
+   },
+   "gl_renderer_string": "Mesa DRI Intel(R) Sandybridge Mobile ",
+   "gl_vendor_string": "Intel Open Source Technology Center",
+   "gl_version_string": "3.0 Mesa 10.3.5",
+   "hardware_acceleration_mode_previous": true,
+   "http_original_content_length": "26147066643",
+   "http_received_content_length": "26147066643",
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "network_time": {
+      "network_time_mapping": {
+         "local": 1423757596789.621,
+         "network": 1423757596775.229
+      }
+   },
+   "ntp": {
+      "promo_resource_cache_update": "1423752167.830046"
+   },
+   "policy": {
+      "last_statistics_update": "13068204160694289"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1423758618.335839,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "managed_user_id": "",
+            "name": "First user",
+            "use_gaia_picture": false,
+            "user_name": "nenych.m@gmail.com"
+         }
+      },
+      "last_active_profiles": [ "Default" ],
+      "last_used": "Default"
+   },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "mailto": false,
+         "ms-help": true,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
+   "show-first-run-bubble-option": 0,
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1418407283",
+      "launch_count": "101"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source2": 1199,
+      "session_id": 100,
+      "stability": {
+         "breakpad_registration_fail": 101,
+         "child_process_crash_count": 1,
+         "crash_count": 5,
+         "debugger_not_present": 101,
+         "execution_phase": 500,
+         "exited_cleanly": false,
+         "extension_renderer_crash_count": 0,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1423758460",
+         "launch_count": 101,
+         "launch_time_sec": "1423730560",
+         "page_load_count": 0,
+         "plugin_stats2": [ {
+            "crashes": 0,
+            "instances": 0,
+            "launches": 88,
+            "loading_errors": 0,
+            "name": "Shockwave Flash"
+         } ],
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1418207770",
+         "stats_version": "39.0.2171.95-64-devel"
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}

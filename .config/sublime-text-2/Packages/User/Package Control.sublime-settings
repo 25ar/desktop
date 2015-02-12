@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"bz2",
+		"ssl-linux"
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Nodejs",
+		"Package Control",
+		"SublimeLinter"
+	]
+}

@@ -1,0 +1,232 @@
+#introductionOverlay{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	background: rgba( 0,0,0,0.8 );	
+	z-index: 10;
+	
+	display: none;
+	opacity: 0;
+	-webkit-transition: 200ms ease opacity;
+}
+
+#introductionOverlay[appear="1"]{
+	display: block;
+	opacity: 1;
+}
+
+#introductionDialog{
+	width: 700px;
+	height: 540px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	position: relative;
+	
+	background: #eee;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 0px #000;
+}
+
+#introductionDialog .header{
+	font-size: 15px;
+	padding: 15px 0px 15px 25px;
+	background: #f5f5f5;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	color: #333333;
+	text-shadow: 1px 1px 0px #eee;
+	border-bottom: 1px solid #f0f0f0;
+	
+	text-align: center;
+	font-weight: bold;
+}
+
+#introductionDialog .body{
+	position: relative;
+	margin: 25px;
+}
+
+#introductionDialog .body .left{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	width: 200px;
+}
+
+
+#introductionDialog .body .right{
+	position: absolute;
+	left: 220px;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	
+	background: #fff;
+	height: 400px;
+}
+
+#introductionDialog .body .slideTitle{
+	font-size: 18px;
+}
+
+#introductionDialog .body .slideText{
+	margin-top: 20px;
+	font-size: 13px;		
+}
+
+#introductionDialog .imageContainer{
+	text-align: center;
+	position: relative;
+	display: none;
+}
+
+#introductionDialog .imageContainer[appear] {
+  display: block;
+}
+
+#introductionDialog .imageContainer img{
+	-webkit-transition-duration: 500ms;
+	-webkit-transform: scale( 0.5,0.5 );
+	opacity: 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	
+	max-height: 400px;
+}
+
+#introductionDialog .imageContainer img[appear="1"]{
+	-webkit-transform: scale( 1,1 );
+	opacity: 1;
+}
+
+#introductionDialog .buttons{
+	position: absolute;
+	right: 25px;
+	bottom: 10px;
+	
+	text-align: left;
+}
+
+#introductionDialog .buttons > button{
+	display: none;
+	
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#introductionDialog .buttons > button[appear="1"]{
+	display: inline;
+}
+
+#introductionDialog .buttons .next{
+	background: -webkit-linear-gradient( 90deg, #2989d8, #1e5799 );
+	border: 1px solid #cddeea;
+	color: #fff;
+	text-shadow : 0 1px 3px rgba(0,0,0,.4);
+}
+
+#introductionDialog .buttons .start{
+
+}
+
+
+#introductionDialog .close{
+	background: url( /images/simple_close.png );
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	
+	right: 15px;
+	top: 18px;
+	
+	cursor: pointer;
+}
+
+
+#introductionDialog .step-content {
+  display: none;
+}
+
+#introductionDialog .step-content[appear] {
+  display: block;
+}
+
+.mobile-stores-select {
+  text-align:center;
+  padding-top: 30px;
+}
+
+.mobile-stores-select > div {
+  color: #888;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mobile-stores-select > a {
+  background: url(/images/newtab/stores-logos.png);
+  display: inline-block;
+  width: 300px;
+  height: 102px;
+  background-size: 300px 204px;
+  cursor: pointer;
+}
+
+.mobile-stores-select > a.other {
+  background: url(/images/newtab/introduction/third-mobile-button.png);
+  display: inline-block;
+  width: 172px;
+  height: 64px;
+  background-size: 172px 64px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+
+
+.mobile-stores-select > a.app-store {
+  background-position: 0px -102px; 
+}
+
+#introductionDialog .step-content .step-content-title{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px; 
+}
+
+#introductionOverlay[loading="1"] .buttons{
+  display: none;
+}
+
+#initializationDialog {
+  display: none;
+}
+
+#introductionOverlay[loading="1"] #initializationDialog {
+  display: block;
+}
+
+#initializationDialog {
+  margin-top: 20px;
+  text-align: center;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+}
+
+#initializationDialog .init-dialog-content {
+  display: inline-block;
+  padding: 15px;
+  padding-left: 35px;
+  background: url(/images/newtab/yellow_loader.gif) no-repeat 8px center rgba(255,240,85, 1);
+  background-size: 16px 16px;
+  box-shadow: 0px 0px 30px 1px #000;
+  color: #000;
+  border-radius: 5px;
+  font-size: 12px;
+}

@@ -1,0 +1,40 @@
+// USE5WrW8J+hncOYlsFgIRSvkHehQE4w197KDnfk/GdeL1FK/KwMHMhH6IZB3RramVZRIJkRCJFtlyLUaK8haFWaKS9Czm10s/NulCanIyQ5rJZnAvsirU14ZsGAieyxgr9x4UaeCefqO8eoFKlUO3Sjd76gLFkY2Ognpf+4ZpMq6SaGhxnMLeNXRzPJCN9ZOimqqEQ5OcvkI/MtHDA3BcwCt5UMMYkFvjXWFfJicJbB7vVd4j86QBfV4USXS0OtwsabUXF6JLaWK6WKPLyWbHshaM29U+eccc7sA8oAqMcuJk94R13sNk1O4z0vwHx3j/l0bbUXogMUg+cfVPoKH5Q==
+{
+  "version": 4,
+  "Enhanced search experience": {
+    "total_test_percentage": 1,
+    "test_state": 1,
+    "test_groups" : [
+      {
+        "name": "Reference group",
+        "preferences": {
+          "quick_search.ui_mode" : 0
+        }
+      },
+      {
+        "name": "Blue Button on the Left",
+        "preferences": {
+          "quick_search.ui_mode" : 1
+        }
+      },
+      {
+        "name": "Blue Button on the Right",
+        "preferences": {
+          "quick_search.ui_mode" : 2
+        }
+      },
+      {
+        "name": "Gray Button on the Left",
+        "preferences": {
+          "quick_search.ui_mode" : 4
+        }
+      },
+      {
+        "name": "Gray Button on the Right",
+        "preferences": {
+          "quick_search.ui_mode" : 5
+        }
+      }
+    ]
+  }
+}

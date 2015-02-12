@@ -1,0 +1,1289 @@
+{
+   "browser": {
+      "last_known_google_url": "https://www.google.com.ua/"
+   },
+   "countryid_at_install": 21843,
+   "data_reduction": {
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "15226126", "0", "13946230", "140603381", "210922124", "3039202", "11738025", "0", "3958687" ],
+      "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "15226126", "0", "13946230", "140603381", "210922124", "3039202", "11738025", "0", "3958687" ],
+      "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "last_update_date": "13068079200000000",
+      "statistics_prefs_migrated": true
+   },
+   "default_apps_install_state": 2,
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://ad.turn.com/", [ "http://cdn.turn.com/", 1.967674022654115 ] ], [ "http://b.c8.net.ua/", [ "http://b.c8.net.ua/", 1.773261102125213, "http://g4p.grt03.com/", 1.298664854951716, "http://img3.grt02.com/", 1.4873597484062389, "http://js.grt02.com/", 1.298664854951716 ] ], [ "http://banerator.net/", [ "http://banerator.net/", 2.3915401975273824, "http://banerator.silvercdn.com/", 1.4956253644698663, "http://c1.onedmp.com/", 1.4956253644698663, "http://cs01.trafmag.com/", 3.5411176640409443, "http://cs07.trafmag.com/", 5.36532979400143, "http://trafmag.com/", 1.9435827809986248 ] ], [ "http://cdn.seasonvar.ru/", [ "http://cdn.seasonvar.ru/", 6.44474525551651 ] ], [ "http://cdn.sstatic.net/", [ "http://cdn.sstatic.net/", 20.54545503887476 ] ], [ "http://cdn.turn.com/", [ "http://pixel.rubiconproject.com/", 1.967674022654115 ] ], [ "http://censor-net-ua.rg.yottos.com/", [ "http://cdnt.yottos.com/", 3.3905724874812138, "https://cdnt.yottos.com/", 0.7905170181337462 ] ], [ "http://censor.net.ua/", [ "http://counter.tovarro.com/", 2.2733802, "http://counter.yadro.ru/", 2.6037003999999997, "http://imgn.marketgid.com/", 2.9340205999999998, "http://mg.yadro.ru/", 2.2733802, "http://p.novostimira.biz/", 2.6037003999999997, "http://static.ak.facebook.com/", 2.2733802, "http://storage3.censor.net.ua/", 2.6037003999999997, "http://vk.com/", 2.6037003999999997, "https://apis.google.com/", 3.2643407999999994, "https://s-static.ak.facebook.com/", 2.2733802 ] ], [ "http://censor.net/", [ "http://censor.net.ua/", 1.8572295440774185 ] ], [ "http://censor1-net-ua.rg.yottos.com/", [ "http://cdnt.yottos.com/", 2.628190761744854, "https://cdnt.yottos.com/", 0.7445717913474734 ] ], [ "http://cm.g.doubleclick.net/", [ "http://adxhm.d.chango.com/", 1.298664854951716, "http://cm.g.doubleclick.net/", 1.8704675623896636, "http://d5p.de17a.com/", 1.967674022654115, "http://i.w55c.net/", 0.8571188042681327 ] ], [ "http://code.xidx.org/", [ "http://aid.xidx.org/", 1.609039939968727, "http://dsp.aitarget.ru/", 0.8090091894001238, "http://front.facetz.net/", 4.058874079638701, "http://front.rtbooster.com/", 1.0032336533431032, "http://st.targetix.net/", 1.3367213106663882, "http://staging.trafex.net/", 1.5309457746093675, "http://static.facetz.net/", 1.3061367966559152, "http://sticker.yadro.ru/", 1.3061367966559152, "http://sync.madnet.ru/", 2.084686339270529, "http://sync.smarttds.ru/", 0.8090091894001238 ] ], [ "http://connect.ok.ru/", [ "http://st.mycdn.me/", 1.967674022654115 ] ], [ "http://cti.w55c.net/", [ "http://cm.g.doubleclick.net/", 1.967674022654115, "http://i.w55c.net/", 1.967674022654115, "http://tags.w55c.net/", 1.967674022654115, "http://www.facebook.com/", 1.967674022654115, "https://tags.w55c.net/", 1.967674022654115, "https://www.facebook.com/", 1.967674022654115 ] ], [ "http://dsp101.rontar.com/", [ "http://cdn101.rontar.com/", 2.2535753763730892, "http://dsp101.rontar.com/", 1.967674022654115, "http://prd101.rontar.com/", 1.967674022654115 ] ], [ "http://f.pinid.com/", [ "http://f.pinid.com/", 3.206498870971269 ] ], [ "http://fonts.googleapis.com/", [ "http://fonts.gstatic.com/", 2.297994222654115 ] ], [ "http://front.facetz.net/", [ "http://front.facetz.net/", 1.9296824120598586, "http://muser.r24-tech.com/", 0.8090091894001238, "http://su.addthis.com/", 1.3367213106663882 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://activities.aliexpress.com/", 2.2733802, "http://fonts.googleapis.com/", 2.2733802, "http://pagead2.googlesyndication.com/", 3.031283633560632, "http://vkoot.com/", 2.2733802, "http://www.iherb.com/", 0.5076771117629969, "http://www.pblobp.com/", 0.1773569117629969, "https://googleads.g.doubleclick.net/", 0.5076771117629969, "https://www.freelancer.com/", 0.5076771117629969, "https://www.google.com/", 0.8637671194550562 ] ], [ "http://ib.3lift.com/", [ "http://eb2.3lift.com/", 2.5394767300920633, "http://ib.adnxs.com/", 1.967674022654115, "http://l2.visiblemeasures.com/", 1.967674022654115 ] ], [ "http://loginza.ru/", [ "http://loginza.ru/", 2.821604185941946, "http://mc.yandex.ru/", 1.967674022654115, "https://favicon.yandex.net/", 1.1430201579871062, "https://yandex.st/", 1.1430201579871062 ] ], [ "http://pagead2.googlesyndication.com/", [ "http://vkoot.com/", 2.2733802, "http://www.kartbm.com/", 1.8572295440774185, "http://www.pblobp.com/", 2.1457765990453503 ] ], [ "http://prd101.rontar.com/", [ "http://cdn101.rontar.com/", 3.9689834986869323 ] ], [ "http://ru.golos.ua/", [ "http://ad.admixer.net/", 2.2535753763730892, "http://idntfy.ru/", 2.2535753763730892, "http://imgn.marketgid.com/", 2.8253780838110374, "http://juke.mmi.bemobile.ua/", 1.967674022654115, "http://pagestat.mmi.bemobile.ua/", 2.5394767300920633, "http://ru.golos.ua/", 20.837163368106392, "http://source.mmi.bemobile.ua/", 2.5394767300920633, "http://videoclick.ru/", 2.8253780838110374, "http://www.partner.join.com.ua/", 3.111279437530011, "http://www.tns-counter.ru/", 1.967674022654115 ] ], [ "http://seasonvar.ru/", [ "http://banerator.silvercdn.com/", 1.8572295440774185, "http://c.marketgid.com/", 2.127083409456189, "http://imgg.marketgid.com/", 8.333722313167902, "http://mc.yandex.ru/", 1.8572295440774185, "http://recreativ.ru/", 2.127083409456189, "http://seasonvar.ru/", 6.44474525551651, "http://st1.recreativ.ru/", 6.714599120895281, "http://st2.recreativ.ru/", 5.635183659380201, "http://st3.recreativ.ru/", 2.127083409456189, "http://st4.recreativ.ru/", 3.4763527363500395 ] ], [ "http://st.mycdn.me/", [ "http://st.mycdn.me/", 2.5394767300920633 ] ], [ "http://st0.vk.me/", [ "http://st0.vk.me/", 4.849854290064611 ] ], [ "http://static.censor.net.ua/", [ "http://static.censor.net.ua/", 13.989731934721194 ] ], [ "http://storage3.censor.net.ua/", [ "http://c.novostimira.biz/", 2.2733802, "http://cdn.yottos.com/", 2.9340205999999998, "http://censor-net-ua.rg.yottos.com/", 2.2733802, "http://censor1-net-ua.rg.yottos.com/", 2.2733802, "http://partner.join.com.ua/", 2.6037003999999997, "http://recreativ.ru/", 0.540872768818992, "http://st1.recreativ.ru/", 0.4190868473630602, "http://st2.recreativ.ru/", 0.4190868473630602, "http://st4.recreativ.ru/", 0.4190868473630602, "http://www.partner.join.com.ua/", 2.9340205999999998 ] ], [ "http://svc.seasonvar.ru/", [ "http://ajax.googleapis.com/", 1.8572295440774185, "http://cs11094.vk.me/", 1.8572295440774185, "http://cs410131.vk.me/", 1.8572295440774185, "http://cs619819.vk.me/", 1.8572295440774185, "http://cs623420.vk.me/", 1.8572295440774185, "http://cs625522.vk.me/", 1.8572295440774185, "http://cs625716.vk.me/", 1.8572295440774185, "http://cs7061.vk.me/", 1.8572295440774185, "http://seasonvar.ru/", 3.735412447113658, "http://svc.seasonvar.ru/", 3.2874550305849004 ] ], [ "http://takprosto.cc/", [ "http://googleads.g.doubleclick.net/", 3.3971807912489846, "http://pagead2.googlesyndication.com/", 3.111279437530011, "http://static.ak.facebook.com/", 1.967674022654115, "http://takprosto.cc/", 9.68701057306641, "http://www.facebook.com/", 2.5394767300920633, "http://www.google-analytics.com/", 2.2535753763730892, "http://www.gstatic.com/", 1.967674022654115, "https://s-static.ak.facebook.com/", 1.967674022654115, "https://stats.g.doubleclick.net/", 1.967674022654115, "https://www.facebook.com/", 2.5394767300920633 ] ], [ "http://tap2-cdn.rubiconproject.com/", [ "http://map.media6degrees.com/", 1.967674022654115, "http://match.adsrvr.org/", 1.967674022654115, "http://pixel.rubiconproject.com/", 6.463465948252489, "http://px.owneriq.net/", 2.2535753763730892, "http://r.254a.com/", 2.2535753763730892, "http://um.simpli.fi/", 1.967674022654115, "http://www.wtp101.com/", 2.2535753763730892, "http://x.bidswitch.net/", 2.2535753763730892, "https://pixel.rubiconproject.com/", 1.967674022654115, "https://pr.ybp.yahoo.com/", 1.967674022654115 ] ], [ "http://uainfo-org.rg.yottos.com/", [ "http://cdnt.yottos.com/", 3.111279437530011, "https://cdnt.yottos.com/", 1.967674022654115 ] ], [ "http://uainfo.org/", [ "http://ad.dumedia.ru/", 2.2535753763730892, "http://g4p.grt03.com/", 1.967674022654115, "http://img3.grt02.com/", 1.967674022654115, "http://p.novostimira.biz/", 4.254884852405906, "http://pagestat.mmi.bemobile.ua/", 1.967674022654115, "http://stat.adlabs.ru/", 2.8253780838110374, "http://static.uainfo.org/", 13.117826817694096, "http://trmedie.ru/", 2.2535753763730892, "http://uainfo.org/", 28.27059856479973, "http://www.google.com/", 3.6830821449679587 ] ], [ "http://unix.stackexchange.com/", [ "http://b.scorecardresearch.com/", 2.6037003999999997, "http://cdn.sstatic.net/", 4.59488224104911, "http://edge.quantserve.com/", 2.2733802, "http://engine.adzerk.net/", 3.9959037453631487, "http://pixel.quantserve.com/", 2.2733802, "http://stackexchange.com/", 2.2733802, "http://static.adzerk.net/", 2.2733802, "http://unix.stackexchange.com/", 2.6037003999999997, "https://stackauth.com/", 2.2733802, "https://www.gravatar.com/", 3.0284370748532576 ] ], [ "http://us-u.openx.net/", [ "http://cmap.ox.ace.advertising.com/", 1.967674022654115, "http://d.audienceiq.com/", 2.2535753763730892, "http://d.p-td.com/", 1.967674022654115, "http://e.nexac.com/", 2.2535753763730892, "http://m.xp1.ru4.com/", 2.8253780838110374, "http://match.adsrvr.org/", 2.2535753763730892, "http://pixel.sitescout.com/", 1.967674022654115, "http://pr.ybp.yahoo.com/", 1.967674022654115, "http://tags.bluekai.com/", 1.967674022654115, "http://us-u.openx.net/", 3.9689834986869323 ] ], [ "http://vk.com/", [ "http://cs4918.vk.me/", 2.2733802, "http://cs622023.vk.me/", 2.2733802, "http://cs623326.vk.me/", 2.2733802, "http://cs623722.vk.me/", 2.2733802, "http://cs9499.vk.me/", 0.7112220559056331, "http://cs9789.vk.me/", 0.5355335097081445, "http://st0.vk.me/", 1.0415422559056333, "http://st2.vk.me/", 1.5052543341755402, "http://st3.vk.me/", 0.07084425480575192, "http://vk.com/", 3.7274034212460845 ] ], [ "http://vkoot.com/", [ "http://activities.aliexpress.com/", 2.2733802, "http://s.click.aliexpress.com/", 2.2733802, "http://vkoot.com/", 2.9340205999999998, "http://www.freelancer.com/", 2.2733802, "http://www.iherb.com/", 2.6037003999999997, "https://www.freelancer.com/", 2.6037003999999997 ] ], [ "http://w1120.am15.net/", [ "http://advm.upstats.ru/", 0.5339460650040815, "http://am15.net/", 0.5339460650040815, "http://b.am15.net/", 1.1512357026425568, "http://c.morgdm.ru/", 0.6115279718850165, "http://pixel.adsniper.ru/", 0.5339460650040815, "http://sync2.adsniper.ru/", 0.7666917856468862, "http://sync2.audtd.com/", 0.6115279718850165, "http://track.hubrus.com/", 0.5339460650040815, "http://utarget.ru/", 0.5339460650040815, "http://w1120.am15.net/", 0.8037999303828518 ] ], [ "http://www.bjpenn.com.2sj2.spdl.us/", [ "http://www.bjpenn.com.3sj2.spdl.us/", 1.967674022654115, "http://www.bjpenn.com.4sj2.spdl.us/", 2.2535753763730892 ] ], [ "http://www.bjpenn.com/", [ "http://pubads.g.doubleclick.net/", 7.113898389595645, "http://static.ak.facebook.com/", 1.967674022654115, "http://tags.bluekai.com/", 2.2535753763730892, "http://tags.w55c.net/", 1.967674022654115, "http://tpc.googlesyndication.com/", 2.5394767300920633, "http://www.bjpenn.com.2sj2.spdl.us/", 4.54078620612488, "http://www.google-analytics.com/", 7.6857010970335935, "https://analytics.twitter.com/", 1.967674022654115, "https://graph.facebook.com/", 1.967674022654115, "https://www.facebook.com/", 2.2535753763730892 ] ], [ "http://www.freelotto.com/", [ "http://ajax.googleapis.com/", 2.127083409456189, "http://f.pinid.com/", 2.9366450055924993, "http://fl9875309.b.circonus.net/", 1.8572295440774185, "http://googleads.g.doubleclick.net/", 2.127083409456189, "http://sealserver.trustkeeper.net/", 2.127083409456189, "http://stats.g.doubleclick.net/", 2.127083409456189, "http://www.freelotto.com/", 2.127083409456189, "http://www.google.com.ua/", 1.4662652639166562, "http://www.google.com/", 1.4662652639166562, "http://www.googleadservices.com/", 1.8572295440774185 ] ], [ "http://www.kartbm.com/", [ "http://activities.aliexpress.com/", 1.8572295440774185, "http://marketplace.envato.com/", 1.8572295440774185, "http://s.click.aliexpress.com/", 1.8572295440774185, "http://themeforest.net/", 2.127083409456189, "http://www.freelancer.com/", 1.8572295440774185, "http://www.iherb.com/", 2.127083409456189, "http://www.kartbm.com/", 2.6667911402137294, "https://www.freelancer.com/", 2.127083409456189 ] ], [ "http://www.newsbymail.net/", [ "http://ru.golos.ua/", 1.967674022654115 ] ], [ "http://www.pblobp.com/", [ "http://activities.aliexpress.com/", 2.1457765990453503, "http://s.click.aliexpress.com/", 2.1457765990453503, "http://www.freelancer.com/", 2.1457765990453503, "http://www.iherb.com/", 2.4575561048895462, "http://www.pblobp.com/", 2.7693356107337426, "https://www.freelancer.com/", 2.4575561048895462 ] ], [ "http://www.pereval.net/", [ "http://counter.yadro.ru/", 1.967674022654115, "http://www.newsbymail.net/", 1.967674022654115, "http://www.pereval.net/", 1.967674022654115 ] ], [ "http://www.vivaldi.com/", [ "https://vivaldi.com/", 2.1457765990453503 ] ], [ "http://www.youtube.com/", [ "https://www.youtube.com/", 2.084686339270529 ] ], [ "http://zenway.ru/", [ "http://code.xidx.org/", 2.2733802, "http://counter.yadro.ru/", 2.2733802, "http://googleads.g.doubleclick.net/", 2.9340205999999998, "http://mc.yandex.ru/", 4.682914057754055, "http://pagead2.googlesyndication.com/", 2.9340205999999998, "http://presence.jabberfr.org/", 7.890667241308183, "http://share.pluso.ru/", 2.9340205999999998, "http://w.uptolike.com/", 7.366334661971545, "http://zenway.ru/", 37.80351451809062, "https://w.uptolike.com/", 2.6037003999999997 ] ], [ "https://accounts.google.com/", [ "https://apis.google.com/", 0.7971040599049536, "https://oauth.googleusercontent.com/", 0.7971040599049536, "https://ssl.gstatic.com/", 0.7569231249448737 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 4.073677653716562, "https://fonts.gstatic.com/", 1.3276726273213668, "https://lh3.googleusercontent.com/", 0.49728958194572204 ] ], [ "https://content.googleapis.com/", [ "https://apis.google.com/", 2.084686339270529, "https://content.googleapis.com/", 2.387589482583341 ] ], [ "https://fbstatic-a.akamaihd.net/", [ "https://fbstatic-a.akamaihd.net/", 36.382756077377806 ] ], [ "https://fonts.googleapis.com/", [ "https://fonts.gstatic.com/", 3.0811151165779385 ] ], [ "https://s.ytimg.com/", [ "https://s.ytimg.com/", 3.1066744411092047 ] ], [ "https://translate.google.com.ua/", [ "https://apis.google.com/", 1.053445006615081, "https://csi.gstatic.com/", 1.9080977859517188, "https://ssl.gstatic.com/", 1.9080977859517188, "https://translate.google.com.ua/", 6.181361682634908, "https://www.google-analytics.com/", 1.053445006615081, "https://www.gstatic.com/", 1.053445006615081 ] ], [ "https://vivaldi.com/", [ "https://ajax.cloudflare.com/", 2.1457765990453503, "https://fonts.googleapis.com/", 2.1457765990453503, "https://rum-collector.pingdom.net/", 2.1457765990453503, "https://vivaldi.com/", 18.046531397099347 ] ], [ "https://wiki.archlinux.org/", [ "https://wiki.archlinux.org/", 7.890667241308183 ] ], [ "https://www.facebook.com/", [ "https://3-edge-chat.facebook.com/", 2.6037003999999997, "https://fbcdn-sphotos-c-a.akamaihd.net/", 2.6037003999999997, "https://fbcdn-sphotos-g-a.akamaihd.net/", 0.39898617105967626, "https://fbexternal-a.akamaihd.net/", 0.8861650880941742, "https://fbstatic-a.akamaihd.net/", 16.86527503574221, "https://pixel.facebook.com/", 2.2733802, "https://scontent-a-fra.xx.fbcdn.net/", 0.06866597105967626, "https://scontent-b-fra.xx.fbcdn.net/", 0.40387592403695216, "https://www.facebook.com/", 4.209272490869481 ] ], [ "https://www.google.com.ua/", [ "https://apis.google.com/", 1.1213215817564905, "https://id.google.com.ua/", 0.9902678058807165, "https://ssl.gstatic.com/", 1.1213215817564905, "https://www.google.com.ua/", 6.09292411186997, "https://www.gstatic.com/", 2.570726651180711 ] ], [ "https://www.youtube.com/", [ "https://apis.google.com/", 2.6037003999999997, "https://clients1.google.com/", 2.6037003999999997, "https://gg.google.com/", 2.6037003999999997, "https://i.ytimg.com/", 15.464975055599648, "https://pagead2.googlesyndication.com/", 1.775725133091461, "https://s.ytimg.com/", 8.899758090408906, "https://s2.googleusercontent.com/", 2.6037003999999997, "https://www.gstatic.com/", 1.7062131839185495, "https://www.youtube.com/", 2.3059614076779167, "https://yt3.ggpht.com/", 4.079969890108002 ] ] ],
+      "startup_list": [ 1, "http://c.bigmir.net/", "http://censor.net.ua/", "http://static.censor.net.ua/", "http://storage1b.censor.net.ua/", "http://unix.stackexchange.com/", "http://zenway.ru/", "https://translate.google.com.ua/", "https://wiki.archlinux.org/", "https://www.facebook.com/", "https://www.google.com.ua/" ]
+   },
+   "download": {
+      "directory_upgrade": true
+   },
+   "extensions": {
+      "alerts": {
+         "initialized": true
+      },
+      "autoupdate": {
+         "last_check": "13067843192338818",
+         "next_check": "13068139638789509"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ],
+         "vivaldi_mail": [ "chrome-extension://mpognobbkildjkofajifpdfhcoklimli/mail.html" ],
+         "vivaldi_settings": [ "chrome-extension://mpognobbkildjkofajifpdfhcoklimli/settings.html" ]
+      },
+      "last_chrome_version": "40.0.2214.89",
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "management", "system.display", "system.storage", "system.cpu", "system.memory", "system.network" ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "t",
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13068137720632628",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://chrome.google.com/webstore"
+                  },
+                  "urls": [ "https://chrome.google.com/webstore" ]
+               },
+               "description": "Discover great apps, games, extensions and themes for Vivaldi.",
+               "icons": {
+                  "128": "webstore_icon_128.png",
+                  "16": "webstore_icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtl3tO0osjuzRsf6xtD2SKxPlTfuoy7AWoObysitBPvH5fE1NaAA1/2JkPWkVDhdLBWLaIBPYeXbzlHp3y4Vv/4XG+aN5qFE3z+1RU/NqkzVYHtIpVScf3DjTYtKVL66mzVGijSoAIwbFCC3LpGdaoe6Q1rSRDp76wR6jjFzsYwQIDAQAB",
+               "name": "Web Store",
+               "permissions": [ "management", "system.cpu", "system.display", "system.memory", "system.network", "system.storage" ],
+               "version": "0.2"
+            },
+            "page_ordinal": "n",
+            "path": "/opt/vivaldi-unstable/resources/web_store",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "eemcgdkfndhakfknompkggombfjjjeno": {
+            "active_permissions": {
+               "api": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs" ],
+               "explicit_host": [ "chrome://favicon/*", "chrome://resources/*" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13068137720602883",
+            "location": 5,
+            "manifest": {
+               "chrome_url_overrides": {
+                  "bookmarks": "main.html"
+               },
+               "content_security_policy": "object-src 'none'; script-src chrome://resources 'self'",
+               "description": "Bookmark Manager",
+               "icons": {
+
+               },
+               "incognito": "split",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQcByy+eN9jzazWF/DPn7NW47sW7lgmpk6eKc0BQM18q8hvEM3zNm2n7HkJv/R6fU+X5mtqkDuKvq5skF6qqUF4oEyaleWDFhd1xFwV7JV+/DU7bZ00w2+6gzqsabkerFpoP33ZRIw7OviJenP0c0uWqDWF8EGSyMhB3txqhOtiQIDAQAB",
+               "manifest_version": 2,
+               "name": "Bookmark Manager",
+               "permissions": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs", "chrome://favicon/", "chrome://resources/" ],
+               "version": "0.1"
+            },
+            "path": "/opt/vivaldi-unstable/resources/bookmark_manager",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "ennkphjdgehloodpbhlhldgbnhmacadg": {
+            "active_permissions": {
+               "api": [  ],
+               "explicit_host": [ "chrome://settings-frame/*" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13068137720756829",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "background": {
+                     "scripts": [ "settings_app.js" ]
+                  }
+               },
+               "description": "Settings",
+               "display_in_launcher": false,
+               "icons": {
+                  "128": "settings_app_icon_128.png",
+                  "16": "settings_app_icon_16.png",
+                  "32": "settings_app_icon_32.png",
+                  "48": "settings_app_icon_48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoVDPGX6fvKPVVgc+gnkYlGqHuuapgFDyKhsy4z7UzRLO/95zXPv8h8e5EacqbAQJLUbP6DERH5jowyNEYVxq9GJyntJMwP1ejvoz/52hnY3CCGGCmttmKzzpp5zwLuq3iZf8bslwywfflNUYtaCFSDa0TtrBZz0aOPrAAd/AhNwIDAQAB",
+               "manifest_version": 2,
+               "name": "Settings",
+               "permissions": [ "chrome://settings-frame/" ],
+               "version": "0.2"
+            },
+            "path": "/opt/vivaldi-unstable/resources/settings_app",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "running": false,
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "kmendfapggjehodndflmmgagdbamhnfd": {
+            "active_permissions": {
+               "api": [ "hid", "u2fDevices", "usb", {
+                  "usbDevices": [ {
+                     "interfaceId": -1,
+                     "productId": 529,
+                     "vendorId": 4176
+                  } ]
+               }, "webConnectable" ],
+               "explicit_host": [ "https://www.gstatic.com/*" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13068137720820371",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "util.js", "b64.js", "sha256.js", "countdown.js", "countdowntimer.js", "devicestatuscodes.js", "approvedorigins.js", "errorcodes.js", "gnubbycodetypes.js", "webrequest.js", "gnubbymsgtypes.js", "messagetypes.js", "factoryregistry.js", "closeable.js", "requesthelper.js", "webrequestsender.js", "enroller.js", "requestqueue.js", "signer.js", "origincheck.js", "textfetcher.js", "appid.js", "watchdog.js", "gstaticorigincheck.js", "googleapprovedorigins.js", "gnubbydevice.js", "hidgnubbydevice.js", "usbgnubbydevice.js", "gnubbies.js", "gnubby.js", "gnubby-u2f.js", "gnubbyfactory.js", "singlesigner.js", "multiplesigner.js", "generichelper.js", "inherits.js", "individualattest.js", "devicefactoryregistry.js", "usbhelper.js", "usbenrollhandler.js", "usbsignhandler.js", "usbgnubbyfactory.js", "googlecorpindividualattest.js", "cryptotokenbackground.js" ]
+               },
+               "description": "CryptoToken Component Extension",
+               "externally_connectable": {
+                  "accepts_tls_channel_id": true,
+                  "ids": [ "fjajfjhkeibgmiggdfehjplbhmfkialk" ],
+                  "matches": [ "https://login.corp.google.com/*", "https://accounts.google.com/*", "https://myaccount.google.com/*", "https://security.google.com/*" ]
+               },
+               "incognito": "split",
+               "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zRobvA+AVlvNqkHSSVhh1sEWsHSqz4oR/XptkDe/Cz3+gW9ZGumZ20NCHjaac8j1iiesdigp8B1LJsd/2WWv2Dbnto4f8GrQ5MVphKyQ9WJHwejEHN2K4vzrTcwaXqv5BSTXwxlxS/mXCmXskTfryKTLuYrcHEWK8fCHb+0gvr8b/kvsi75A1aMmb6nUnFJvETmCkOCPNX5CHTdy634Ts/x0fLhRuPlahk63rdf7agxQv5viVjQFk+tbgv6aa9kdSd11Js/RZ9yZjrFgHOBWgP4jTBqud4+HUglrzu8qynFipyNRLCZsaxhm+NItTyNgesxLdxZcwOz56KD1Q4IQIDAQAB",
+               "manifest_version": 2,
+               "name": "CryptoTokenExtension",
+               "permissions": [ "hid", "usb", "u2fDevices", "https://www.gstatic.com/", {
+                  "usbDevices": [ {
+                     "productId": 529,
+                     "vendorId": 4176
+                  } ]
+               } ],
+               "version": "0.9.6"
+            },
+            "path": "/opt/vivaldi-unstable/resources/cryptotoken",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "mfehgcgbbipciphmccgaenjidiccnmng": {
+            "active_permissions": {
+               "api": [ "cloudPrintPrivate" ],
+               "manifest_permissions": [  ]
+            },
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13068137720604168",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://www.google.com/cloudprint"
+                  },
+                  "urls": [ "https://www.google.com/cloudprint/enable_chrome_connector" ]
+               },
+               "description": "Cloud Print",
+               "display_in_launcher": false,
+               "icons": {
+
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqOhnwk4+HXVfGyaNsAQdU/js1Na56diW08oF1MhZiwzSnJsEaeuMN9od9q9N4ZdK3o1xXOSARrYdE+syV7Dl31nf6qz3A6K+D5NHe6sSB9yvYlIiN37jdWdrfxxE0pRYEVYZNTe3bzq3NkcYJlOdt1UPcpJB+isXpAGUKUvt7EQIDAQAB",
+               "name": "Cloud Print",
+               "permissions": [ "cloudPrintPrivate" ],
+               "version": "0.1"
+            },
+            "path": "/opt/vivaldi-unstable/resources/cloud_print",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "mgndgikekgjfcpckkfioiadnlibdjbkf": {
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "n",
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13068137720633864",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://THIS-WILL-BE-REPLACED"
+                  }
+               },
+               "description": "A fast, simple, and secure web browser, built for the modern web.",
+               "display_in_launcher": true,
+               "display_in_new_tab_page": false,
+               "icons": {
+                  "128": "product_logo_128.png",
+                  "16": "product_logo_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNuYLEQ1QPMcc5HfWI/9jiEf6FdJWqEtgRmIeI7qtjPLBM5oje+Ny2E2mTAhou5qdJiO2CHWdU1DQXY2F7Zu2gZaKZgHLfK4WimHxUT5Xd9/aro/R9PCzjguM1BLusiWYc9xlj1IsZpyiN1hcjU7SCnBhv1feQlv2WSB5KRiXwhQIDAQAB",
+               "name": "Vivaldi",
+               "version": "0.1"
+            },
+            "page_ordinal": "n",
+            "path": "/opt/vivaldi-unstable/resources/chrome_app",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "mpognobbkildjkofajifpdfhcoklimli": {
+            "active_bit": true,
+            "active_permissions": {
+               "api": [ "audioCapture", "bookmarks", "contentSettings", "contextMenus", "cookies", "downloads", "downloadsInternal", "downloads.open", "downloads.shelf", "fileSystem", "fileSystem.write", "geolocation", "history", "management", "nativeMessaging", "app.window.fullscreen.overrideEsc", "sessions", {
+                  "socket": [ "tcp-connect:*:*" ]
+               }, "storage", "tabs", "topSites", "unlimitedStorage", "videoCapture", "webview", "showMenu", "importData", "savedpasswords", "notes" ],
+               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*", "chrome://theme/*", "chrome://thumb/*" ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "w",
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "geometry_cache": {
+               "vivaldi_window_ci5p8wp1j00003i4wj4p1y6tt": {
+                  "h": 720,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 3,
+                  "ts": "13068137727807034",
+                  "w": 1024,
+                  "x": 175,
+                  "y": 28
+               },
+               "vivaldi_window_ci5par85700003i4wncw6hyrh": {
+                  "h": 720,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067442187065683",
+                  "w": 1024,
+                  "x": 172,
+                  "y": 25
+               },
+               "vivaldi_window_ci5s1lmjc00043i53jqnokikq": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067608207674398",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5s1q0yc00053i53k8vqyedo": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067608412995063",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5tt4g6p00033i53ro790ji8": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067714901827274",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5vez71c00013h54l268wfyr": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067812074245346",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5vf27nb00033h54ayup5kxj": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067812215080894",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5xuvlmj00003h4xga971ufb": {
+                  "h": 748,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067959712546842",
+                  "w": 1050,
+                  "x": 11,
+                  "y": 11
+               },
+               "vivaldi_window_ci5xuwrig00003h54z7j0011t": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067959787804162",
+                  "w": 740,
+                  "x": 146,
+                  "y": 60
+               },
+               "vivaldi_window_ci5xuzctn00013h54ulvzgmlp": {
+                  "h": 560,
+                  "screen_bounds_h": 768,
+                  "screen_bounds_w": 1366,
+                  "screen_bounds_x": 0,
+                  "screen_bounds_y": 0,
+                  "state": 1,
+                  "ts": "13067959888041457",
+                  "w": 740,
+                  "x": 11,
+                  "y": 11
+               }
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13068137720756126",
+            "is_active": false,
+            "last_launch_time": "13068137721512256",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "background": {
+                     "scripts": [ "background-bundle.js" ]
+                  },
+                  "content_security_policy": "script-src 'self' http://localhost:35729/; object-src 'self'"
+               },
+               "chrome_url_overrides": {
+                  "vivaldi_mail": "mail.html",
+                  "vivaldi_settings": "settings.html"
+               },
+               "default_locale": "en",
+               "display_in_launcher": true,
+               "display_in_new_tab_page": true,
+               "icons": {
+                  "128": "resources/icon_128.png",
+                  "16": "resources/icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZkVvA5GwPYgY0TLcWEuM3yp/SnK7aZul39rvMTTAXd8YUgd1CpoFSoparbHO9qcrp2o4dzKDuIlJchAZhd8Rc2BgC9YVceW8s0VkhbPxuECKPWjb+VzxV1u9f6OhD6oNtrkaKBEJRFQVHe29P+vaOwiFLuR9pkCo62vYnMK8fGwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "32.0.1700.0",
+               "name": "Vivaldi",
+               "offline_enabled": true,
+               "permissions": [ "webview", "\u003Call_urls>", "bookmarks", "contextMenus", "management", "showMenu", "importData", "cookies", "contentSettings", "storage", "unlimitedStorage", {
+                  "fileSystem": [ "write" ]
+               }, "history", "topSites", "sessions", "tabs", "downloads", "downloads.open", "downloads.shelf", "videoCapture", "audioCapture", "nativeMessaging", "notes", "geolocation", "savedpasswords", "app.window.fullscreen.overrideEsc", {
+                  "socket": [ "tcp-connect:*:*" ]
+               } ],
+               "version": "1.5",
+               "webview": {
+                  "partitions": [ {
+                     "accessible_resources": [ "browser.html", "util/capture.html", "components/startpage/startpage.html", "components/settings/settings.html", "components/mail/mail.html", "components/contacts/contact.html", "style/*", "resources/*", "defaultsPlatformSpecific.js", "defaults.js", "bundle.js" ],
+                     "name": "storage"
+                  } ]
+               }
+            },
+            "page_ordinal": "n",
+            "path": "/opt/vivaldi-unstable/resources/vivaldi",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "running": true,
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         }
+      }
+   },
+   "http_original_content_length": "399433775",
+   "http_received_content_length": "399433775",
+   "intl": {
+      "accept_languages": "en-US,en"
+   },
+   "invalidator": {
+      "client_id": "0dtsXDNRVzjkGmJS1UR71w=="
+   },
+   "media": {
+      "device_id_salt": "65+rl7FE7xadrrqj3Bd+IA=="
+   },
+   "net": {
+      "http_server_properties": {
+         "servers": {
+            "0-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "1-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "3-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "4-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "5-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "6-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "accounts.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "ad.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "adx.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "ajax.cloudflare.com:443": {
+               "supports_spdy": true
+            },
+            "ajax.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "ajax.googleapis.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "analytics.twitter.com:443": {
+               "supports_spdy": true
+            },
+            "apis.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "cache.pack.google.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "clients1.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "cm.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "content.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "csi.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "csi.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "cx.atdmt.com:443": {
+               "supports_spdy": true
+            },
+            "edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-dragon-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-profile-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-a-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-b-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-c-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-d-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-e-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-f-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-g-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-h-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-vthumb-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbexternal-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fbstatic-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
+               "supports_spdy": true
+            },
+            "fonts.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "fonts.googleapis.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "fonts.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "fonts.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "gg.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "googleads.g.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "googleads.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "graph.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "i.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "i.ytimg.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "i1.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "id.google.com.ua:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "img.youtube.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "lh5.googleusercontent.com:443": {
+               "supports_spdy": true
+            },
+            "oauth.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "p4-hqxcxzefz5pjg-wu5lzhkjfwhxljmg-807545-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-hqxcxzefz5pjg-wu5lzhkjfwhxljmg-807545-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-hqxcxzefz5pjg-wu5lzhkjfwhxljmg-807545-s1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-hqxcxzefz5pjg-wu5lzhkjfwhxljmg-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "pagead2.googlesyndication.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "pagead2.googlesyndication.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "partner.googleadservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "pixel.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "pp.vk.me:443": {
+               "supports_spdy": true
+            },
+            "pubads.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "r11---sn-4g57knzz.googlevideo.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.01,
+                  "protocol_str": "quic"
+               }
+            },
+            "r2---sn-8vap5-3c2l.c.pack.google.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.01,
+                  "protocol_str": "quic"
+               }
+            },
+            "rlz-server.appspot.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "rum-collector.pingdom.net:443": {
+               "supports_spdy": true
+            },
+            "s.c.appier.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "s.youtube.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "s.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "s2.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "scontent-a-fra.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "scontent-a.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "scontent-b-fra.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "scontent-b.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "ssl.google-analytics.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "ssl.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "stats.g.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "stats.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "syndication.twitter.com:443": {
+               "supports_spdy": true
+            },
+            "tpc.googlesyndication.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "translate.google.com.ua:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "vivaldi.com:443": {
+               "supports_spdy": true
+            },
+            "www.archlinux.fr:443": {
+               "supports_spdy": true
+            },
+            "www.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "www.google-analytics.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.google-analytics.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.google.com.ua:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.google.com.ua:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.google.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.googleadservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.googletagservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.youtube.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.youtube.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "yt3.ggpht.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            }
+         },
+         "version": 3
+      }
+   },
+   "pinned_tabs": [  ],
+   "plugins": {
+      "plugins_list": [  ],
+      "removed_old_component_pepper_flash_settings": true
+   },
+   "profile": {
+      "avatar_index": 26,
+      "content_settings": {
+         "pattern_pairs": {
+
+         },
+         "pref_version": 1
+      },
+      "created_by_version": "40.0.2214.89",
+      "exit_type": "Normal",
+      "exited_cleanly": true,
+      "local_profile_id": 12516555,
+      "managed_user_id": "",
+      "name": "First user",
+      "per_host_zoom_levels": {
+
+      }
+   },
+   "protection": {
+      "macs": {
+         "browser": {
+            "show_home_button": "904452986128BBEE5A7B1FFB8F342100C3150E3D9FD76C4105DF33EB021E22FD"
+         },
+         "default_search_provider": {
+            "keyword": "42142BFC0323D5EF138C9ED2128F1DEB2FD3E3F7AF30AD930F60A1C5B87E5276",
+            "name": "D29ED831358AACE7408781A9A65FA083D8CBA1662ED7E0356AEB94734C60D047",
+            "search_url": "D02C7D9E52A3893EB51633C2C0CA63BB6AC27B4E406A7C47D6A896AF4042FDDE"
+         },
+         "default_search_provider_data": {
+            "template_url_data": "575D258E47F940C6887685ABA99A5839CBFE4BA30863349DFE0D0C375AAB8816"
+         },
+         "extensions": {
+            "settings": {
+               "ahfgeienlihckogmohjhadlkjgocpleb": "051CCB1587A2881B4502954CD0E2CFBB359BBFB68BAC43ACE355EE54DBA329A8",
+               "eemcgdkfndhakfknompkggombfjjjeno": "2A60A39A64B38D6B5BDD917B8B7F8EFDA7C8841F3FB875D6BD8AD032D8D38D04",
+               "ennkphjdgehloodpbhlhldgbnhmacadg": "A85A4DCFF4C35C8BE454B8C679B110A69DBE980B69B952323CB8479390168E31",
+               "kmendfapggjehodndflmmgagdbamhnfd": "30A93EF7188E326E71B8714004226DFEC534837CFE8BB1002559A150D58863D9",
+               "mfehgcgbbipciphmccgaenjidiccnmng": "B7B540C604C1FF43908E556C21C3CCC2BC83CA7D4CBB1FAE79D765EDB782C32A",
+               "mgndgikekgjfcpckkfioiadnlibdjbkf": "02FD392B6E46C455602D754349529A63E1FB9631E957B20E5D729ED42C85DF21",
+               "mpognobbkildjkofajifpdfhcoklimli": "8C43BC17EF12EC8141B2B5948805543DBA232257D688FA30E948A4C5ADF6E15E"
+            }
+         },
+         "google": {
+            "services": {
+               "last_username": "24FCEF9BF7DF12A2935BE143E58951E09DBAA1D3E0E24430C0FF93009F5D6AFD",
+               "username": "D26BCA1B2F99EDF1D42826D14541328D9E374F4559553FC3BB7E76405AC31AE2"
+            }
+         },
+         "homepage": "B1E9FE8108A84F532486D13AAC43C0AFDA16D3DFC9EB2F743AEE11F89F2F163E",
+         "homepage_is_newtabpage": "3680F776D17E3C099431BAF5381FAB9BCC0C2C70FEA4C74D12324BC94A207119",
+         "pinned_tabs": "699F1AC92729A024B80605AFC3C63BFB2A35B70C4214581BBE108F851528E9E8",
+         "prefs": {
+            "preference_reset_time": "95C909F3D0669D5931907B455F099C510E7770D9F0BA6FF13E4C76101B44F757"
+         },
+         "profile": {
+            "reset_prompt_memento": "D4530CB53DD89D7863C8A6CB3762FD06DE5DBC9965D16D3A72FE1B19AD4A6C8F"
+         },
+         "safebrowsing": {
+            "incident_report_sent": "892BF4EF5204701BC97E1930D22871ADB8357AD28630976EAE29B674EBE984C0",
+            "incidents_sent": "569707D9A4676B72F48BE92B740BE3EF895419C8A646F1AE1BA70BD9C3B41845"
+         },
+         "search_provider_overrides": "1E1EBA3A4DC28A23BEFCF6ED5D71CE71E9814DD587A305F6B14F72E834AF75DD",
+         "session": {
+            "restore_on_startup": "F9BD26F5D1AA6AB5258754888529CB2A82AE68D1703BCC2A97DEAEE5DDDA190E",
+            "startup_urls": "8BB8DBC1D7CA5C58F821C38254FB2B9C874F8EE9B9905B57DE48C731C6C91837"
+         },
+         "sync": {
+            "remaining_rollback_tries": "330199A48C5F90321D74BF4A3B8CAD4B7FF7FA5817F414DCBE4E6C2F52FBDA56"
+         }
+      }
+   },
+   "proxy": {
+
+   },
+   "session": {
+      "restore_on_startup_migrated": true,
+      "startup_urls_migration_time": "13067439081319260"
+   },
+   "translate_blocked_languages": [ "en" ],
+   "translate_whitelists": {
+
+   }
+}
